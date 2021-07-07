@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="dot">.</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="star">*</string>
+    <string name="slash">/</string>
+    <string name="pct">%</string>
+    <string name="equals">=</string>
+    <string name="del">del</string>
+    <string name="clear">C</string>
+    <string name="ans">ans</string>
+    <string name="varA">A</string>
+    <string name="varB">B</string>
+    <string name="varX">X</string>
+    <string name="varY">Y</string>
+    <string name="varZ">Z</string>
+    <string name="storeA">→A</string>
+    <string name="storeB">→B</string>
+    <string name="storeX">→X</string>
+    <string name="storeY">→Y</string>
+    <string name="storeZ">→Z</string>
+    <string name="left">←</string>
+    <string name="right">→</string>
+    <string name="lparen">(</string>
+    <string name="rparen">)</string>
+</resources>
